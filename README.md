@@ -12,8 +12,6 @@
 * Under listen 'Add .gitignore: None' skrive 'node' og vælg den fra listen.
 * Klik på 'Create repository' og du er færdig!.
 
-#
-
 ## Hvordan man tilføjer kode som kan vises på Github
 
 * Først markeres hvilken type kode du vil vise ved at skrive '```' og derefter navnet på kodesproget, f.eks. javascript uden mellem rum.
