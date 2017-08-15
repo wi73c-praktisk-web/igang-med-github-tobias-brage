@@ -5,7 +5,7 @@
 [google](https://www.google.dk)
 
 ```javascript
-val trigger = 0;
+val trigger = true;
 
 if(trigger === true) {
     console.log("variable is true");
