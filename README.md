@@ -1,6 +1,4 @@
-# Hvordan man opretter et repository på Github
-
-## I dette eksempel skal det oprettes under 'wi73a-praktisk-web' organisationen.
+## Hvordan man opretter et repository på Github
 
 * Besøg organisationen [wi73a-praktisk-web](https://github.com/wi73a-praktisk-web).
 * I højre side befinder sig en grøn knap med teksten 'new', klik på den.
