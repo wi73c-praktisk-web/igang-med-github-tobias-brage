@@ -28,7 +28,7 @@
 ## Skriv til konsollen i Visual Studio Code
 
 * Hvis der skal skrives til konsollen i tilfælde af debugging eller lignende skal kommandoen `console.log();` bruges.
-* I `()` skrives hvad der skal vises i konsollen.
+* I `()` skrives hvad der skal vises i konsollen, f.eks. `console.log("Hello World");`.
 * Hvis konsollen ikke er fremme kan genvejen `Shift-Command-Y` bruges ellers kan den også findes under `View-Debug Console`.
 * For at få vist et resultatet af `console.log` funktionen skal du i konsollen skrives `node` mellemrum og navnet på filen (du behøver ikke skrive filtypen), f.eks. `node test`.
 
