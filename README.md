@@ -34,7 +34,7 @@
 
 ## Hvordan man tilføjer kode som kan vises på Github
 
-* Først markeres hvilken type kode du vil vise ved at skrive ` ``` ` og derefter navnet på kodesproget, f.eks. javascript uden mellem rum.
+* Først markeres hvilken type kode du vil vise ved at skrive ` ``` ` og derefter navnet på kodesproget, f.eks. ` ```javascript `.
 * Du kan nu skrive din kode nedenunder og det vil vises som kode på Github.
 
 ```javascript
