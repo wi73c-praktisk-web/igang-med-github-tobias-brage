@@ -25,7 +25,7 @@
 * Først skrives der `[]` efter fulgt af `()` uden mellemrum.
 * I `[]` skrives teksten til linket og i `()` indsættes url'en, f.eks. `[Google](www.google.dk)`.
 
-## Skriv til konsollen
+## Skriv til konsollen i Visual Studio Code
 
 * Hvis der skal skrives til konsollen i tilfælde af debugging eller lignende skal kommandoen `console.log();` bruges.
 * I `()` skrives hvad der skal vises i konsollen.
