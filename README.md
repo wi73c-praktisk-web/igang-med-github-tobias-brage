@@ -1,8 +1,9 @@
 # igang-med-github-tobias-brage
 
-## sdsdsdsd
+## Hvordan man opretter et repository på Github
 
-[google](https://www.google.dk)
+* I dette eksempel skal det oprettes under 'wi73a-praktisk-web' organisationen.
+* først besøges [google](https://github.com/wi73a-praktisk-web)
 
 ```javascript
 val trigger = true;
