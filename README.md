@@ -25,6 +25,13 @@
 * Først skrives der `[]` efter fulgt af `()` uden mellemrum.
 * I `[]` skrives teksten til linket og i `()` indsættes url'en, f.eks. `[Google](www.google.dk)`.
 
+## Skriv til konsollen
+
+* Hvis der skal skrives til konsollen i tilfælde af debugging eller lignende skal kommandoen `console.log();` bruges.
+* I `()` skrives hvad der skal vises i konsollen.
+* Hvis konsollen ikke er fremme kan genvejen `Shift-Command-Y` bruges ellers kan den også findes under `View-Debug Console`.
+* For at få vist et resultatet af `console.log` funktionen skal du i konsollen skrives `node` mellemrum og navnet på filen (du behøver ikke skrive filtypen), f.eks. `node test`.
+
 ## Hvordan man tilføjer kode som kan vises på Github
 
 * Først markeres hvilken type kode du vil vise ved at skrive ` ``` ` og derefter navnet på kodesproget, f.eks. javascript uden mellem rum.
