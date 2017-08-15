@@ -2,7 +2,7 @@
 
 ## sdsdsdsd
 
-[[Link Text|www.google.dk]]
+[google](https://www.google.dk)
 
 ```javascript
 asasa
