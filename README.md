@@ -1,5 +1,3 @@
-# igang-med-github-tobias-brage
-
 # Hvordan man opretter et repository på Github
 
 ## I dette eksempel skal det oprettes under 'wi73a-praktisk-web' organisationen.
@@ -13,6 +11,8 @@
 * Vær sikker på at 'Initialize this repository with a README' er markeret.
 * Under listen 'Add .gitignore: None' skrive 'node' og vælg den fra listen.
 * Klik på 'Create repository' og du er færdig!.
+
+#
 
 ```javascript
 val trigger = true;
